@@ -1,0 +1,9 @@
+/home/dev/devProjects/courses/SpringBoot_Microservices/vg-brewery/src/main/java/guru/springframework/vgbrewery/web/controller/BeerController.java
+/home/dev/devProjects/courses/SpringBoot_Microservices/vg-brewery/src/main/java/guru/springframework/vgbrewery/services/DefaultCustomerServiceimpl.java
+/home/dev/devProjects/courses/SpringBoot_Microservices/vg-brewery/src/main/java/guru/springframework/vgbrewery/web/model/CustomerDto.java
+/home/dev/devProjects/courses/SpringBoot_Microservices/vg-brewery/src/main/java/guru/springframework/vgbrewery/services/BeerServiceImpl.java
+/home/dev/devProjects/courses/SpringBoot_Microservices/vg-brewery/src/main/java/guru/springframework/vgbrewery/services/CustomerService.java
+/home/dev/devProjects/courses/SpringBoot_Microservices/vg-brewery/src/main/java/guru/springframework/vgbrewery/VgBreweryApplication.java
+/home/dev/devProjects/courses/SpringBoot_Microservices/vg-brewery/src/main/java/guru/springframework/vgbrewery/web/model/BeerDto.java
+/home/dev/devProjects/courses/SpringBoot_Microservices/vg-brewery/src/main/java/guru/springframework/vgbrewery/services/BeerService.java
+/home/dev/devProjects/courses/SpringBoot_Microservices/vg-brewery/src/main/java/guru/springframework/vgbrewery/web/controller/CustomerController.java
