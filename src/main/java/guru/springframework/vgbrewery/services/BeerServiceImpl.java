@@ -3,11 +3,12 @@ package guru.springframework.vgbrewery.services;
 import guru.springframework.vgbrewery.web.model.BeerDto;
 import org.springframework.stereotype.Service;
 import lombok.extern.slf4j.Slf4j;
+
 import java.util.UUID;
 
 @Slf4j //inject a logger
 @Service
-public class BeerServiceImpl implements BeerService{
+public class BeerServiceImpl implements BeerService {
     @Override
     public BeerDto getBeerById(UUID beerId) {
         return BeerDto.builder().id(UUID.randomUUID()).
